@@ -34,7 +34,7 @@ variable "images" {
     # Oracle-provided image "Oracle-Linux-7.9-2020.10.26-0"
     us-phoenix-1   = "ocid1.image.oc1.phx.aaaaaaaacirjuulpw2vbdiogz3jtcw3cdd3u5iuangemxq5f5ajfox3aplxa"
     us-ashburn-1   = "ocid1.image.oc1.iad.aaaaaaaabbg2rypwy5pwnzinrutzjbrs3r35vqzwhfjui7yibmydzl7qgn6a"
-    sa-vinhedo-1   = "ocid1.image.oc1.sa-vinhedo-1.aaaaaaaag33ymtqhxw4wnsufjpt6yamfgxkap4vxctj3lm5t74sgw7h5w4cq"
+    sa-vinhedo-1   = "ocid1.image.oc1.sa-vinhedo-1.aaaaaaaaemw754t5j6dnl4mngsx2n3oanacoezl5bzcsgv336rvkkcympzia"
   }
 }
 
